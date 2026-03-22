@@ -29,7 +29,7 @@ This project is part of the ONYX Data Challenge, focusing on analyzing pharmacy 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](.https://github.com/m441995/Pharmacy_Data_ONYX_Challenge/blob/main/Screenshot%20(11).png)
 
 ## 📁 Files Included
 
